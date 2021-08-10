@@ -1,0 +1,81 @@
+2021-08-10 13:04:37.007 +09:00 [INF] Now listening on: https://localhost:5101
+2021-08-10 13:04:37.015 +09:00 [INF] Now listening on: http://localhost:5100
+2021-08-10 13:04:37.015 +09:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-10 13:04:37.015 +09:00 [INF] Hosting environment: Development
+2021-08-10 13:04:37.015 +09:00 [INF] Content root path: D:\00.ALM\LoggingTest\BuyService
+2021-08-10 13:04:39.753 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5101/swagger - -
+2021-08-10 13:04:40.049 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5101/swagger - - - 301 0 - 297.6928ms
+2021-08-10 13:04:40.051 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5101/swagger/index.html - -
+2021-08-10 13:04:40.108 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5101/swagger/index.html - - - 200 - text/html;charset=utf-8 56.9627ms
+2021-08-10 13:04:40.127 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5101/swagger/swagger-ui.css - -
+2021-08-10 13:04:40.127 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5101/swagger/swagger-ui-bundle.js - -
+2021-08-10 13:04:40.127 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5101/swagger/swagger-ui-standalone-preset.js - -
+2021-08-10 13:04:40.174 +09:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-08-10 13:04:40.174 +09:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-08-10 13:04:40.174 +09:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-08-10 13:04:40.175 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5101/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 48.6781ms
+2021-08-10 13:04:40.175 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5101/swagger/swagger-ui.css - - - 200 142933 text/css 48.7788ms
+2021-08-10 13:04:40.175 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5101/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 48.2823ms
+2021-08-10 13:04:40.284 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5101/swagger/v1/swagger.json - -
+2021-08-10 13:04:40.304 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-bundle.js.map - -
+2021-08-10 13:04:40.304 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-standalone-preset.js.map - -
+2021-08-10 13:04:40.305 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5101/swagger/favicon-32x32.png - -
+2021-08-10 13:04:40.307 +09:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-08-10 13:04:40.307 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5101/swagger/favicon-32x32.png - - - 200 628 image/png 1.5304ms
+2021-08-10 13:04:40.344 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-bundle.js.map - - - 404 0 - 40.2041ms
+2021-08-10 13:04:40.344 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-standalone-preset.js.map - - - 404 0 - 40.2041ms
+2021-08-10 13:04:40.411 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5101/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 126.6982ms
+2021-08-10 13:05:03.159 +09:00 [INF] Now listening on: https://localhost:5101
+2021-08-10 13:05:03.167 +09:00 [INF] Now listening on: http://localhost:5100
+2021-08-10 13:05:03.167 +09:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-10 13:05:03.167 +09:00 [INF] Hosting environment: Development
+2021-08-10 13:05:03.167 +09:00 [INF] Content root path: D:\00.ALM\LoggingTest\BuyService
+2021-08-10 13:05:06.209 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5101/swagger/index.html - -
+2021-08-10 13:05:06.613 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5101/swagger/index.html - - - 200 - text/html;charset=utf-8 406.5590ms
+2021-08-10 13:05:06.963 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5101/swagger/v1/swagger.json - -
+2021-08-10 13:05:07.037 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-bundle.js.map - -
+2021-08-10 13:05:07.037 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-standalone-preset.js.map - -
+2021-08-10 13:05:07.085 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-standalone-preset.js.map - - - 404 0 - 47.0904ms
+2021-08-10 13:05:07.085 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-bundle.js.map - - - 404 0 - 47.0843ms
+2021-08-10 13:05:07.144 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5101/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 180.5513ms
+2021-08-10 13:05:30.610 +09:00 [INF] Request starting HTTP/2 POST https://localhost:5101/api/Buy application/json 189
+2021-08-10 13:05:30.613 +09:00 [INF] Executing endpoint 'BuyService.Controllers.BuyController.Buy (BuyService)'
+2021-08-10 13:05:30.634 +09:00 [INF] Route matched with {action = "Buy", controller = "Buy"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Buy(BuyService.OrderedProduct) on controller BuyService.Controllers.BuyController (BuyService).
+2021-08-10 13:05:30.652 +09:00 [INF] Start calling Buy function
+2021-08-10 13:05:30.665 +09:00 [INF] Start processing HTTP request POST "http://localhost:5103/api/inventory/export"
+2021-08-10 13:05:30.667 +09:00 [INF] Sending HTTP request POST "http://localhost:5103/api/inventory/export"
+2021-08-10 13:05:31.073 +09:00 [ERR] There is an exception
+2021-08-10 13:05:31.076 +09:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-08-10 13:05:31.087 +09:00 [INF] Executed action BuyService.Controllers.BuyController.Buy (BuyService) in 450.1515ms
+2021-08-10 13:05:31.088 +09:00 [INF] Executed endpoint 'BuyService.Controllers.BuyController.Buy (BuyService)'
+2021-08-10 13:05:31.088 +09:00 [INF] Request finished HTTP/2 POST https://localhost:5101/api/Buy application/json 189 - 500 - application/problem+json;+charset=utf-8 477.5518ms
+2021-08-10 13:06:51.673 +09:00 [INF] Now listening on: https://localhost:5101
+2021-08-10 13:06:51.680 +09:00 [INF] Now listening on: http://localhost:5100
+2021-08-10 13:06:51.681 +09:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-10 13:06:51.681 +09:00 [INF] Hosting environment: Development
+2021-08-10 13:06:51.681 +09:00 [INF] Content root path: D:\00.ALM\LoggingTest\BuyService
+2021-08-10 13:06:54.368 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5101/swagger/index.html - -
+2021-08-10 13:06:54.718 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5101/swagger/index.html - - - 200 - text/html;charset=utf-8 351.9734ms
+2021-08-10 13:06:54.864 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5101/swagger/v1/swagger.json - -
+2021-08-10 13:06:54.933 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-bundle.js.map - -
+2021-08-10 13:06:54.933 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-standalone-preset.js.map - -
+2021-08-10 13:06:54.968 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-standalone-preset.js.map - - - 404 0 - 34.6411ms
+2021-08-10 13:06:54.968 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5101/swagger/swagger-ui-bundle.js.map - - - 404 0 - 34.6425ms
+2021-08-10 13:06:54.992 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5101/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 127.9377ms
+2021-08-10 13:09:25.371 +09:00 [INF] Request starting HTTP/2 POST https://localhost:5101/api/Buy application/json 189
+2021-08-10 13:09:25.374 +09:00 [INF] Executing endpoint 'BuyService.Controllers.BuyController.Buy (BuyService)'
+2021-08-10 13:09:25.393 +09:00 [INF] Route matched with {action = "Buy", controller = "Buy"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Buy(BuyService.OrderedProduct) on controller BuyService.Controllers.BuyController (BuyService).
+2021-08-10 13:09:25.409 +09:00 [INF] Start calling Buy function
+2021-08-10 13:09:25.421 +09:00 [INF] Start processing HTTP request POST "https://localhost:5103/api/inventory/export"
+2021-08-10 13:09:25.423 +09:00 [INF] Sending HTTP request POST "https://localhost:5103/api/inventory/export"
+2021-08-10 13:09:25.485 +09:00 [INF] Received HTTP response headers after 60.6444ms - 200
+2021-08-10 13:09:25.486 +09:00 [INF] End processing HTTP request after 67.1633ms - 200
+2021-08-10 13:09:25.488 +09:00 [INF] Start processing HTTP request POST "https://localhost:5105/api/shipping/ship"
+2021-08-10 13:09:25.488 +09:00 [INF] Sending HTTP request POST "https://localhost:5105/api/shipping/ship"
+2021-08-10 13:09:25.541 +09:00 [INF] Received HTTP response headers after 52.8263ms - 200
+2021-08-10 13:09:25.541 +09:00 [INF] End processing HTTP request after 53.206ms - 200
+2021-08-10 13:09:25.541 +09:00 [INF] End calling Buy function
+2021-08-10 13:09:25.544 +09:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 200
+2021-08-10 13:09:25.546 +09:00 [INF] Executed action BuyService.Controllers.BuyController.Buy (BuyService) in 150.4018ms
+2021-08-10 13:09:25.547 +09:00 [INF] Executed endpoint 'BuyService.Controllers.BuyController.Buy (BuyService)'
+2021-08-10 13:09:25.547 +09:00 [INF] Request finished HTTP/2 POST https://localhost:5101/api/Buy application/json 189 - 200 0 - 175.8790ms

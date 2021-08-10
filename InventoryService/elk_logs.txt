@@ -1,0 +1,68 @@
+2021-08-10 13:05:03.269 +09:00 [INF] Now listening on: https://localhost:5103
+2021-08-10 13:05:03.276 +09:00 [INF] Now listening on: http://localhost:5102
+2021-08-10 13:05:03.276 +09:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-10 13:05:03.276 +09:00 [INF] Hosting environment: Development
+2021-08-10 13:05:03.276 +09:00 [INF] Content root path: D:\00.ALM\LoggingTest\InventoryService
+2021-08-10 13:05:07.164 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5103/swagger - -
+2021-08-10 13:05:07.521 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5103/swagger - - - 301 0 - 355.1739ms
+2021-08-10 13:05:07.521 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5103/swagger/index.html - -
+2021-08-10 13:05:07.632 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5103/swagger/index.html - - - 200 - text/html;charset=utf-8 110.2307ms
+2021-08-10 13:05:07.659 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5103/swagger/swagger-ui.css - -
+2021-08-10 13:05:07.659 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5103/swagger/swagger-ui-bundle.js - -
+2021-08-10 13:05:07.660 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5103/swagger/swagger-ui-standalone-preset.js - -
+2021-08-10 13:05:07.723 +09:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-08-10 13:05:07.723 +09:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-08-10 13:05:07.728 +09:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-08-10 13:05:07.729 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5103/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 69.3874ms
+2021-08-10 13:05:07.729 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5103/swagger/swagger-ui.css - - - 200 142933 text/css 69.9356ms
+2021-08-10 13:05:07.729 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5103/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 68.9186ms
+2021-08-10 13:05:07.906 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5103/swagger/v1/swagger.json - -
+2021-08-10 13:05:07.933 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5103/swagger/favicon-32x32.png - -
+2021-08-10 13:05:07.935 +09:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-08-10 13:05:07.935 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5103/swagger/favicon-32x32.png - - - 200 628 image/png 2.1611ms
+2021-08-10 13:05:07.964 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5103/swagger/swagger-ui-standalone-preset.js.map - -
+2021-08-10 13:05:07.964 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5103/swagger/swagger-ui-bundle.js.map - -
+2021-08-10 13:05:08.020 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5103/swagger/swagger-ui-bundle.js.map - - - 404 0 - 55.2831ms
+2021-08-10 13:05:08.020 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5103/swagger/swagger-ui-standalone-preset.js.map - - - 404 0 - 55.2837ms
+2021-08-10 13:05:08.095 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5103/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 191.8183ms
+2021-08-10 13:06:51.673 +09:00 [INF] Now listening on: https://localhost:5103
+2021-08-10 13:06:51.680 +09:00 [INF] Now listening on: http://localhost:5102
+2021-08-10 13:06:51.680 +09:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-10 13:06:51.680 +09:00 [INF] Hosting environment: Development
+2021-08-10 13:06:51.680 +09:00 [INF] Content root path: D:\00.ALM\LoggingTest\InventoryService
+2021-08-10 13:06:55.089 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5103/swagger/index.html - -
+2021-08-10 13:06:55.418 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5103/swagger/index.html - - - 200 - text/html;charset=utf-8 330.6015ms
+2021-08-10 13:06:55.581 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5103/swagger/v1/swagger.json - -
+2021-08-10 13:06:55.640 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5103/swagger/swagger-ui-bundle.js.map - -
+2021-08-10 13:06:55.640 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5103/swagger/swagger-ui-standalone-preset.js.map - -
+2021-08-10 13:06:55.659 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5103/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 78.0453ms
+2021-08-10 13:06:55.670 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5103/swagger/swagger-ui-standalone-preset.js.map - - - 404 0 - 29.5759ms
+2021-08-10 13:06:55.670 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5103/swagger/swagger-ui-bundle.js.map - - - 404 0 - 29.5690ms
+2021-08-10 13:07:16.254 +09:00 [INF] Request starting HTTP/2 POST https://localhost:5103/api/Inventory/export application/json 65
+2021-08-10 13:07:16.259 +09:00 [INF] Executing endpoint 'InventoryService.Controllers.InventoryController.Export (InventoryService)'
+2021-08-10 13:07:16.299 +09:00 [INF] Route matched with {action = "Export", controller = "Inventory"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Export(InventoryService.InventoryModel) on controller InventoryService.Controllers.InventoryController (InventoryService).
+2021-08-10 13:07:16.355 +09:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-08-10 13:07:16.384 +09:00 [INF] Executed action InventoryService.Controllers.InventoryController.Export (InventoryService) in 73.7884ms
+2021-08-10 13:07:16.387 +09:00 [INF] Executed endpoint 'InventoryService.Controllers.InventoryController.Export (InventoryService)'
+2021-08-10 13:07:16.388 +09:00 [INF] Request finished HTTP/2 POST https://localhost:5103/api/Inventory/export application/json 65 - 400 - application/problem+json;+charset=utf-8 134.0887ms
+2021-08-10 13:07:20.740 +09:00 [INF] Request starting HTTP/2 POST https://localhost:5103/api/Inventory/export application/json 66
+2021-08-10 13:07:20.741 +09:00 [INF] Executing endpoint 'InventoryService.Controllers.InventoryController.Export (InventoryService)'
+2021-08-10 13:07:20.741 +09:00 [INF] Route matched with {action = "Export", controller = "Inventory"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Export(InventoryService.InventoryModel) on controller InventoryService.Controllers.InventoryController (InventoryService).
+2021-08-10 13:07:20.744 +09:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 200
+2021-08-10 13:07:20.744 +09:00 [INF] Executed action InventoryService.Controllers.InventoryController.Export (InventoryService) in 3.2734ms
+2021-08-10 13:07:20.744 +09:00 [INF] Executed endpoint 'InventoryService.Controllers.InventoryController.Export (InventoryService)'
+2021-08-10 13:07:20.745 +09:00 [INF] Request finished HTTP/2 POST https://localhost:5103/api/Inventory/export application/json 66 - 200 0 - 4.3797ms
+2021-08-10 13:08:47.101 +09:00 [INF] Request starting HTTP/2 POST https://localhost:5103/api/Inventory/export application/json 66
+2021-08-10 13:08:47.101 +09:00 [INF] Executing endpoint 'InventoryService.Controllers.InventoryController.Export (InventoryService)'
+2021-08-10 13:08:47.102 +09:00 [INF] Route matched with {action = "Export", controller = "Inventory"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Export(InventoryService.InventoryModel) on controller InventoryService.Controllers.InventoryController (InventoryService).
+2021-08-10 13:08:47.102 +09:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 200
+2021-08-10 13:08:47.102 +09:00 [INF] Executed action InventoryService.Controllers.InventoryController.Export (InventoryService) in 0.3029ms
+2021-08-10 13:08:47.102 +09:00 [INF] Executed endpoint 'InventoryService.Controllers.InventoryController.Export (InventoryService)'
+2021-08-10 13:08:47.102 +09:00 [INF] Request finished HTTP/2 POST https://localhost:5103/api/Inventory/export application/json 66 - 200 0 - 1.2883ms
+2021-08-10 13:09:25.477 +09:00 [INF] Request starting HTTP/1.1 POST https://localhost:5103/api/inventory/export application/json;+charset=utf-8 65
+2021-08-10 13:09:25.477 +09:00 [INF] Executing endpoint 'InventoryService.Controllers.InventoryController.Export (InventoryService)'
+2021-08-10 13:09:25.477 +09:00 [INF] Route matched with {action = "Export", controller = "Inventory"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Export(InventoryService.InventoryModel) on controller InventoryService.Controllers.InventoryController (InventoryService).
+2021-08-10 13:09:25.479 +09:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 200
+2021-08-10 13:09:25.479 +09:00 [INF] Executed action InventoryService.Controllers.InventoryController.Export (InventoryService) in 1.2459ms
+2021-08-10 13:09:25.479 +09:00 [INF] Executed endpoint 'InventoryService.Controllers.InventoryController.Export (InventoryService)'
+2021-08-10 13:09:25.479 +09:00 [INF] Request finished HTTP/1.1 POST https://localhost:5103/api/inventory/export application/json;+charset=utf-8 65 - 200 0 - 1.9189ms

@@ -1,0 +1,47 @@
+2021-08-10 13:05:03.729 +09:00 [INF] Now listening on: https://localhost:5105
+2021-08-10 13:05:03.738 +09:00 [INF] Now listening on: http://localhost:5104
+2021-08-10 13:05:03.739 +09:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-10 13:05:03.739 +09:00 [INF] Hosting environment: Development
+2021-08-10 13:05:03.739 +09:00 [INF] Content root path: D:\00.ALM\LoggingTest\ShippingService
+2021-08-10 13:05:06.866 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5105/swagger - -
+2021-08-10 13:05:07.268 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5105/swagger - - - 301 0 - 406.4546ms
+2021-08-10 13:05:07.276 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5105/swagger/index.html - -
+2021-08-10 13:05:07.359 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5105/swagger/index.html - - - 200 - text/html;charset=utf-8 82.8835ms
+2021-08-10 13:05:07.493 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5105/swagger/swagger-ui.css - -
+2021-08-10 13:05:07.494 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5105/swagger/swagger-ui-bundle.js - -
+2021-08-10 13:05:07.494 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5105/swagger/swagger-ui-standalone-preset.js - -
+2021-08-10 13:05:07.594 +09:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-08-10 13:05:07.594 +09:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-08-10 13:05:07.603 +09:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-08-10 13:05:07.603 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5105/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 109.3656ms
+2021-08-10 13:05:07.603 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5105/swagger/swagger-ui.css - - - 200 142933 text/css 109.9126ms
+2021-08-10 13:05:07.604 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5105/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 109.9085ms
+2021-08-10 13:05:07.786 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5105/swagger/v1/swagger.json - -
+2021-08-10 13:05:07.811 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5105/swagger/favicon-32x32.png - -
+2021-08-10 13:05:07.811 +09:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-08-10 13:05:07.812 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5105/swagger/favicon-32x32.png - - - 200 628 image/png 1.1286ms
+2021-08-10 13:05:07.845 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5105/swagger/swagger-ui-standalone-preset.js.map - -
+2021-08-10 13:05:07.845 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5105/swagger/swagger-ui-bundle.js.map - -
+2021-08-10 13:05:07.883 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5105/swagger/swagger-ui-bundle.js.map - - - 404 0 - 37.8731ms
+2021-08-10 13:05:07.883 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5105/swagger/swagger-ui-standalone-preset.js.map - - - 404 0 - 37.8795ms
+2021-08-10 13:05:07.932 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5105/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 145.8500ms
+2021-08-10 13:06:51.677 +09:00 [INF] Now listening on: https://localhost:5105
+2021-08-10 13:06:51.684 +09:00 [INF] Now listening on: http://localhost:5104
+2021-08-10 13:06:51.684 +09:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-10 13:06:51.684 +09:00 [INF] Hosting environment: Development
+2021-08-10 13:06:51.684 +09:00 [INF] Content root path: D:\00.ALM\LoggingTest\ShippingService
+2021-08-10 13:06:54.038 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5105/swagger/index.html - -
+2021-08-10 13:06:54.401 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5105/swagger/index.html - - - 200 - text/html;charset=utf-8 364.5350ms
+2021-08-10 13:06:54.585 +09:00 [INF] Request starting HTTP/2 GET https://localhost:5105/swagger/v1/swagger.json - -
+2021-08-10 13:06:54.633 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5105/swagger/swagger-ui-bundle.js.map - -
+2021-08-10 13:06:54.633 +09:00 [INF] Request starting HTTP/1.1 GET https://localhost:5105/swagger/swagger-ui-standalone-preset.js.map - -
+2021-08-10 13:06:54.663 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5105/swagger/swagger-ui-bundle.js.map - - - 404 0 - 30.1764ms
+2021-08-10 13:06:54.663 +09:00 [INF] Request finished HTTP/1.1 GET https://localhost:5105/swagger/swagger-ui-standalone-preset.js.map - - - 404 0 - 30.1764ms
+2021-08-10 13:06:54.708 +09:00 [INF] Request finished HTTP/2 GET https://localhost:5105/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 123.0263ms
+2021-08-10 13:09:25.498 +09:00 [INF] Request starting HTTP/1.1 POST https://localhost:5105/api/shipping/ship application/json;+charset=utf-8 81
+2021-08-10 13:09:25.501 +09:00 [INF] Executing endpoint 'ShippingService.Controllers.ShippingController.Ship (ShippingService)'
+2021-08-10 13:09:25.520 +09:00 [INF] Route matched with {action = "Ship", controller = "Shipping"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Ship(ShippingService.ShippingModel) on controller ShippingService.Controllers.ShippingController (ShippingService).
+2021-08-10 13:09:25.536 +09:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 200
+2021-08-10 13:09:25.540 +09:00 [INF] Executed action ShippingService.Controllers.ShippingController.Ship (ShippingService) in 16.8496ms
+2021-08-10 13:09:25.540 +09:00 [INF] Executed endpoint 'ShippingService.Controllers.ShippingController.Ship (ShippingService)'
+2021-08-10 13:09:25.540 +09:00 [INF] Request finished HTTP/1.1 POST https://localhost:5105/api/shipping/ship application/json;+charset=utf-8 81 - 200 0 - 42.4004ms
